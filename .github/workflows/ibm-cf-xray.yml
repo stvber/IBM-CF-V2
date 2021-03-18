@@ -1,5 +1,5 @@
 #
-# https://github.com/P3TERX/IBM-CF-V2
+# https://github.com/P3TERX/IBM-CF-x
 #
 # Copyright (c) 2020 P3TERX <https://p3terx.com>
 #
@@ -7,7 +7,7 @@
 # See /LICENSE for more information.
 #
 
-name: IBM Cloud Foundry - V2Ray
+name: IBM Cloud Foundry - xRay
 
 env:
   IBM_CF_API: https://api.us-south.cf.cloud.ibm.com
